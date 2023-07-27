@@ -63,3 +63,6 @@ En controller podriamos agregar otra capa me imagino yo, de pronto un CLI en vez
     │   └── test_repositories.py
     └── __init__.py
 ```
+
+Podemos practicar con este ejemplo de AWS
+https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/structure-a-python-project-in-hexagonal-architecture-using-aws-lambda.html
